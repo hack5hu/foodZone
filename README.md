@@ -25,7 +25,6 @@ Here's a refined and professional version of your `README.md` for **FoodZone**. 
 
 ## 📁 Project Structure
 
-```
 
 src/
 │
