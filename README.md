@@ -53,7 +53,6 @@ src/
 git clone https://github.com/your-username/foodzone.git
 cd foodzone
 npm install
-````
 
 ### Run App
 
@@ -61,14 +60,12 @@ npm install
 
 ```bash
 npx react-native run-android
-```
 
 #### iOS
 
 ```bash
 cd ios && pod install && cd ..
 npx react-native run-ios
-```
 
 ---
 
