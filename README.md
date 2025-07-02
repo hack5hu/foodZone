@@ -1,4 +1,3 @@
-Here's a refined and professional version of your `README.md` for **FoodZone**. It maintains all your details but improves clarity, formatting, and consistency:
 
 ---
 
