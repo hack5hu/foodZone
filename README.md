@@ -25,7 +25,6 @@ Here's a refined and professional version of your `README.md` for **FoodZone**. 
 
 ## 📁 Project Structure
 
-```
 
 src/
 │
@@ -150,5 +149,3 @@ npx react-native run-android
 ## 📄 License
 
 MIT License © 2025 \[hack5hu]
-
-```
